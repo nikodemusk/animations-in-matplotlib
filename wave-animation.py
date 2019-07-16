@@ -3,7 +3,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 from matplotlib.animation import FuncAnimation
 
-fig, ax = plt.subplots(figsize=(5, 3))
+fig, ax = plt.subplots(figsize=(3.33, 2))
 ax.set(xlim=(-10, 10), ylim=(-1.2, 1.2))
 
 x = np.linspace(-10, 10, 100)
