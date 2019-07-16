@@ -1,2 +1,2 @@
-# animations-in-matplotlib
+# Basic Animations in Matplotlib
 Learn to do basic animations
